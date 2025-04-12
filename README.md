@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Natalie Kim!
 
 🎓 CS Major @ Columbia University  
-📍 Currently in NYC | Hometown: Bay Area  
+📍 Currently in NYC 
 💻 I love building projects in Python, C/C++, and JavaScript
 
 ## 🌱 What I'm working on
